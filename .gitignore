@@ -1,0 +1,34 @@
+# Vivado generated/cache folders
+.Xil/
+.cache/
+.hw/
+.gen/
+.runs/
+.sim/
+.ip_user_files/
+
+# Vivado logs/journals
+*.jou
+*.log
+*.str
+*.backup.jou
+*.backup.log
+
+# Vitis generated folders
+Debug/
+Release/
+build/
+.vitis/
+_system/
+.ide/
+
+# Compiled outputs
+*.elf
+*.map
+*.o
+*.a
+
+# Editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
